@@ -132,4 +132,4 @@ end)
 -- Init
 coroutine.resume(NotificationCoroutine)
 GUI:Init()
-task.wait(2)
+--task.wait(2)
