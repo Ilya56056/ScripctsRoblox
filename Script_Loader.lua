@@ -31,9 +31,3 @@ local Window = GUI:CreateWindow({
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Ilya56056/ScripctsRoblox/refs/heads/main/Script_Doors.lua'))()
     end,
 })
- local Button = Tab:CreateButton({
-    Name = "MM2",
-    Callback = function()
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/Ilya56056/ScripctsRoblox/refs/heads/main/Script_MM2.lua'))()
-    end
-})
